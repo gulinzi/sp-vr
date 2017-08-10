@@ -1,0 +1,10 @@
+{
+  "name": "sp",
+  "version": "1.0.0",
+  "main": "sp.min.js",  
+  "files": [
+    "sp.min.js"
+  ],
+  "description": "VR",
+  "license": "MIT"
+}
